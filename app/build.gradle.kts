@@ -7,8 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.liuruyi"
-    compileSdk = 37
-    buildToolsVersion = "36.0.0"
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.liuruyi"
