@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = bhyy938
+	email = bhyy938@users.noreply.github.com
+[remote "origin"]
+	url = https://github.com/bhyy938/liuruyi-chat.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
